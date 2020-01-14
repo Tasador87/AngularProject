@@ -1,0 +1,10 @@
+.list-group-item {
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 4px 0px dimgray;
+    border-radius: 5px;
+}
+img {
+    border: 1px solid lightgray;
+    box-shadow: 0 0 4px 1px dimgray;
+}

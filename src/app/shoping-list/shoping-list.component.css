@@ -1,0 +1,6 @@
+.list-group-item {
+    margin-bottom: 10px !important;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 2px 0px dimgray;
+    border-radius: 5px;
+}
