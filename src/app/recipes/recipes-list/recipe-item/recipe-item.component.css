@@ -1,0 +1,10 @@
+a div {
+    width: 70% ;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 4px 0px dimgray;
+    border-radius: 5px;
+}
